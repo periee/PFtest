@@ -1,1 +1,7 @@
-
+{
+  "title": "Testi projektin title",
+  "img": "https://github.com/periee/PFtest/blob/85a8657aa10a06662380ea56ad1102fe4ebe0b69/test.png",
+  "desc": "PFTest testiprojektin kuvaus",
+  "visible": "true",
+  "version": "0.1"
+}
